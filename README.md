@@ -5,7 +5,7 @@
 A .NET developer from Uzbekistan
 
 📚 I'm currently studying at PDP Academy in Tashkent  
-📚 I'm a student at Tashkent State Technical University (Part time) 
+📚 I'm a student at Tashkent State Technical University (Part time)  
 💻 I'm currently learning .NET, C#, WPF, ASP.NET Core
 
 ---
